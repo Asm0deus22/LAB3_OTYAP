@@ -1,0 +1,3 @@
+1[vl] test[id] 32767[vl] -[ao] 32768[wl] -[ao] 32769[wl] 32768[wl] <>[co] <[co] >[co] <=[co] >=[co] test1[id] 1test[wl] testte[wl] _[wl] zxc[id] 4832492384[wl] 19731628312913619236192[wl] 293129312939123791283123[wl] if[kw] else[id] then[kw] elseif[kw] end[kw] init[id] start[id] 0[vl] 1[vl] 2[vl] 3[vl]
+test test1 zxc else init start
+1 32767 0 1 2 3
